@@ -17,7 +17,7 @@ load_dotenv()
 # === Configuration constants ===
 SYMBOL = "HNXDS:VN30F2605"
 WINDOW_SIZE = 12
-Z_THRESHOLD = Decimal("1.5")
+Z_THRESHOLD = Decimal("2.5")
 POSITION_SCALING_FACTOR = Decimal("0.02")
 # =========================
 
